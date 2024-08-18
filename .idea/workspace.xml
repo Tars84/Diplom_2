@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd32286e-f479-4de7-93ec-598548a47084" name="Changes" comment="CreatePom">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Order/Ingredients.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Order/IngredientsGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Order/OrderClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/User/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/User/Credentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/User/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/User/UserClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fd32286e-f479-4de7-93ec-598548a47084" name="Changes" comment="CreateTestClass" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,11 +66,29 @@
       <option name="project" value="LOCAL" />
       <updated>1723959985889</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="CreateMainClass">
+      <option name="closed" value="true" />
+      <created>1723960367667</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723960367667</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CreateTestClass">
+      <option name="closed" value="true" />
+      <created>1723960568165</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723960568165</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CreatePom" />
-    <option name="LAST_COMMIT_MESSAGE" value="CreatePom" />
+    <MESSAGE value="CreateMainClass" />
+    <MESSAGE value="CreateTestClass" />
+    <option name="LAST_COMMIT_MESSAGE" value="CreateTestClass" />
   </component>
 </project>
